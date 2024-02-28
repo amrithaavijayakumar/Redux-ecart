@@ -43,7 +43,7 @@ const handleAddToWishlist=(item)=>{
         className="bg-image hover-overlay shadow-1-strong rounded"
       >
         <img
-          src="https://www.zealousweb.com/wp-content/uploads/2020/09/10-Models-of-E-Commerce-Website-That-You-Can-Implement.jpg"
+          src="https://jewelwebdesign.net/wp-content/uploads/2022/04/Webdesigner-SanDiego-ecommerce-1.jpg"
           width={"100%"}
           alt=""
         />
